@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursdo&count_private=true&show_icons=true)](https://github.com/arthursdo)
+<div align = "center">
+ 
+![Status Lelepg](https://github-readme-stats.vercel.app/api?username=arthursdo&show_icons=true&theme=dracula) 
+ 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=arthursdo&theme=dracula&column=6&row=1&margin-w=10)
+ 
+</div>
