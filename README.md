@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
  
-![Status Lelepg](https://github-readme-stats.vercel.app/api?username=arthursdo&show_icons=true&theme=dracula) 
+![Status arthursdo](https://github-readme-stats.vercel.app/api?username=arthursdo&show_icons=true&theme=dracula&count_private=true) 
  
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=arthursdo&theme=dracula&column=6&row=1&margin-w=10)
  
